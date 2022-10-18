@@ -16,15 +16,13 @@
 #visit-our-school {
     text-align: center;
     background-color: #eee;
-    padding: 60px;
+    padding: 80px;
     margin-bottom: 2em;
 }
 
 #visit-our-school p {
     text-align: left;
-    margin-bottom: 3em;
-    margin-left: 3em;
-    margin-right: 3em;
+    margin-bottom: 2em;
     font-size: 1.25em;
 }
 
@@ -66,10 +64,6 @@
     text-align: left;
     color: white;
     font-size: 1.25em;
-}
-
-#auto_gen_id_unq_43 {
-    font-size: 2.5em;
 }
 
 .column a {
